@@ -34,7 +34,7 @@ Welcome to my GitHub profile!
 
 ## 🌎 Connect With Me
 
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/seveneqqq)
+- 💼 [LinkedIn](https://www.linkedin.com/in/seveneqqq)
 
 <!--
 **Seveneqqq/Seveneqqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
